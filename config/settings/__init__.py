@@ -1,0 +1,1 @@
+"""Settings package for the Popna Django project."""
